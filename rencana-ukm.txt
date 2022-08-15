@@ -2,6 +2,6 @@ Rencana ikut UKM
 - UKM programming
 - UKM kristen
 - UKM Saham
-- UKM Bisnis IT
-- UKM Karate
+- UKM robotik
+
 
