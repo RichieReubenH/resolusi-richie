@@ -3,3 +3,5 @@ Rencana ikut UKM
 - UKM kristen
 - UKM Saham
 - UKM Bisnis IT
+- UKM Karate
+
